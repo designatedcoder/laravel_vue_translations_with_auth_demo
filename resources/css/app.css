@@ -5,3 +5,5 @@
 [x-cloak] {
     display: none;
 }
+
+html:lang(ar) * { text-align: right;}
